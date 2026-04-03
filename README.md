@@ -24,6 +24,7 @@ It demonstrates how frontend applications interact with APIs using Fetch API.
 
 <img width="1900" height="1031" alt="Screenshot 2026-04-03 190221" src="https://github.com/user-attachments/assets/1cba1e75-23e2-45aa-9dd9-ae7142143e7c" />
 
+<img width="1901" height="1031" alt="Screenshot 2026-04-03 190427" src="https://github.com/user-attachments/assets/666e3d42-9f6a-416d-9d98-de9dbcc927e0" />
 
 
 
