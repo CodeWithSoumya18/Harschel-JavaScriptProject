@@ -18,6 +18,18 @@ It demonstrates how frontend applications interact with APIs using Fetch API.
 
 <hr>
 
+<h2>Demo </h2><img width="1887" height="1036" alt="Screenshot 2026-04-03 190159" src="https://github.com/user-attachments/assets/d109ca3a-afce-47c4-9a40-fdfdaeb09de8" />
+<img width="1900" height="1026" alt="Screenshot 2026-04-03 190235" src="https://github.com/user-attachments/assets/27029b13-eaaf-421c-9d4f-1b5929931712" />
+</h2>
+
+<img width="1900" height="1031" alt="Screenshot 2026-04-03 190221" src="https://github.com/user-attachments/assets/1cba1e75-23e2-45aa-9dd9-ae7142143e7c" />
+
+
+
+
+
+
+
 <h2>📌 Features</h2>
 
 <ul>
